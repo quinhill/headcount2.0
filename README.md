@@ -11,15 +11,15 @@ These instructions will get you a copy of the project up and running on your loc
 
 Clone the repositorys (git clone https://github.com/quinhill/headcount2.0)
 
-npm install
+```npm install```
 
-npm start
+```npm start```
 
 ## Running the tests
 
 In the terminal,
 
-npm test
+```npm test```
 
 ## Built With
 
