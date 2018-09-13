@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Installing
 
-Clone the repositorys (git clone https://github.com/quinhill/headcount2.0)
+Clone the repositorys (```git clone git@github.com:quinhill/headcount2.0.git```)
 
 ```npm install```
 
